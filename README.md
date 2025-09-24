@@ -1,19 +1,24 @@
-Hi there! 👋
+# 👋 Hi, I'm Marawan Yakout
 
-I'm Marawan Yakout, a current student at the University of London pursuing a BSc in Computer Science. I'm passionate about programming and am constantly improving my skills in a variety of languages such as Python, Java, and JavaScript, with knowledge of C, C++, HTML, CSS, and C#.
+## 📊 GitHub Stats
+![Marawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarawanYakout&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=radical)
 
-About Me
+Welcome to my GitHub profile! I'm a Computer Science student at the University of London, pursuing a BSc with a passion for programming and a drive to specialize in **AI**, **Machine Learning**, **Databases**, and **Cybersecurity**. I love tackling challenging problems, building innovative projects, and continuously expanding my technical expertise.
 
-I have a strong background in Programming and am aiming towards specialization in AI, Machine Learning, Databases, and Cybersecurity.
+## 🔍 About Me
+- 🎓 Studying BSc in Computer Science at the University of London
+- 🌱 Learning and exploring AI, Machine Learning, Databases, and Data Science
+- 💼 Working on personal projects to hone my programming skills
 
-What I Do
+## 💻 My Tech Stack
+- **Languages**:  C, C++, R, Python, Java, JavaScript, HTML, CSS, SQL, R
+- **Frameworks & Tools**:  TensorFlow, Pandas, Scikit learn
+- **Interests**: AI, Machine Learning, Databases, Data Science
 
-Currently, I'm honing my skills in computer programming through my studies and personal projects. I'm particularly interested in exploring the realms of AI, Machine Learning, Databases, and Cybersecurity.
 
-Get in Touch
 
-🌐 LinkedIn :  @MarawanYakout
-🐦 Twitter  :  @MarawanYakout
-📧 Email    :  mmyay1@student.london.ac.uk
-
-Feel free to connect with me on LinkedIn or shoot me an email if you'd like to discuss anything related to programming, AI, or anything else!
+## 🤝 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/marawanyakout)
+- [Twitter](https://twitter.com/MarawanYakout)
+- [Email](mailto:mmyay1@student.london.ac.uk)
