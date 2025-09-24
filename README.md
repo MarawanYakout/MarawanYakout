@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Marawan Yakout
-
 ## 📊 GitHub Stats
 ![Marawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarawanYakout&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=radical)
@@ -19,6 +17,7 @@ Welcome to my GitHub profile! I'm a Computer Science student at the University o
 
 
 ## 🤝 Let's Connect!
+- [Youtube](https://www.youtube.com/@centrified)
 - [LinkedIn](https://www.linkedin.com/in/marawanyakout)
 - [Twitter](https://twitter.com/MarawanYakout)
 - [Email](mailto:mmyay1@student.london.ac.uk)
