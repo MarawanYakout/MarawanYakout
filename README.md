@@ -7,9 +7,6 @@
 
 A foundational researcher with Computer Science BSc - University of London with a focus on AI, Machine Learning, Data Science and DeepLearning. Passionate about research, reproducibility and high‑quality open‑source implementations.
 
-![Marawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarawanYakout&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=radical)
-
 ## Research focus
 - Foundation models, NLP, Evaluation & robustness  
 - Efficient training, data pipelines, and MLOps fundamentals  
