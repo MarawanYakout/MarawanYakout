@@ -23,6 +23,37 @@ A foundational researcher with Computer Science BSc - University of London with 
 - PROJECT_NAME — problem → method → result; demo/inference info and limitations
 -->
 
+
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="https://github.com/MarawanYakout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
+</p> -->
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+%F0%9F%91%8B%F0%9F%8F%BB+Hey+There+!;Its+Marawan+Yakout+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;I+love+code+%2C+science+and+research+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+!;LOVE+YOU+TOO+RANDOM+CITIZEN+%F0%9F%AB%B5%F0%9F%8F%BB"/>
+  </a>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MarawanYakout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="MarawanYakout Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="MarawanYakout Top Langs" />
+  <br/>
+</div>
+
+
+<div align="center">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ0b3ZkMmozOWtnZGQ3ZGY2N3RtdTJlNzJyNDB1dnhjMzk1dGlsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" 
+    alt="Black Hole" 
+    width="600"
+    style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
+  />
+</div>
+
+
+
+
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
