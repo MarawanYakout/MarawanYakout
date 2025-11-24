@@ -35,10 +35,10 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+%F0%9F%91%8B%F0%9F%8F%BB+Hey+There+!;Its+Marawan+Yakout+%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F;I+love+code+%2C+science+and+research+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+!;LOVE+YOU+TOO+RANDOM+CITIZEN+%F0%9F%AB%B5%F0%9F%8F%BB"/>
   </a>
-  <br/>
+  <!-- <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MarawanYakout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="MarawanYakout Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="MarawanYakout Top Langs" />
-  <br/>
+  <br/> -->
 </div>
 
 
