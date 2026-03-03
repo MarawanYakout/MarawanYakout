@@ -264,4 +264,4 @@ Research:
 - YouTube: https://www.youtube.com/@centrified  
 - LinkedIn: https://www.linkedin.com/in/marawanyakout  
 - X/Twitter: https://twitter.com/MarawanYakout  
-- Email: mmyay1@student.london.ac.uk
+- Email: mmyay1@student.london.ac.uk | yakout@marawan.net
