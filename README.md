@@ -31,9 +31,10 @@ A foundational researcher with Computer Science BSc - University of London with 
 </p> -->
 
 
-<div align="center">
+<!-- <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ceviche+One&size=40&pause=1000&color=87F799&width=475&height=65&lines=Welcome+To+My+Git+Universe;I+Love+Code+%2C+Science+%26+Research;I+Love+you+Too+Random+Citizen+%F0%9F%AB%B5%F0%9F%8F%BC" alt="Typing SVG" /></a>
-</div>
+</div> -->
+
 <hr/>
   <!-- <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MarawanYakout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="MarawanYakout Stats" />
@@ -46,13 +47,45 @@ A foundational researcher with Computer Science BSc - University of London with 
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ0b3ZkMmozOWtnZGQ3ZGY2N3RtdTJlNzJyNDB1dnhjMzk1dGlsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" 
     alt="Black Hole" 
-    width="600"
+    width="50%"
     style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
   />
 </div>
 
 
 
+## Top Made Projects
+
+<ul>
+  
+  <li>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.mds.yandex.net%2Fget-shedevrum%2F14123243%2Fimg_01a9e4216c2f11efa203d60e594abc03%2Forig&f=1&nofb=1&ipt=93443aa7fc354e260f9319abbe6bbd86e9ee529534b00f5eeba2a8c4415afa26" width="60" align="left" alt="rustingo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+      SERWED
+     </a>:
+        A Physics Infromed Diffusion Model with scalability for High Picture Dimensions.
+      <br><em>[Tested using NASA GEOS Satellite Data for Rare Cyclone Events + Research Paper]</em>
+        <br clear="all"> 
+  </li>
+  
+  <li>
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fmedieval-oil-portrait-knight-golden-armor_735318-11263.jpg&f=1&nofb=1&ipt=a9a385e2f2c84a5facad6973c5b914e9a6e596aef00da3e59ef8542e6b104376" width="60" align="left" alt="rustingo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
+     <a href="https://github.com/MarawanYakout/rustingo" target="_blank" rel="noreferrer"> 
+      Rustingo
+     </a>: A Fully Rust made Machine Learning Library that uses CPU and GPU resources  <br><em>[On Going]</em>
+         <br clear="all"> 
+  </li>
+  
+  <li>
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.britannica.com%2F53%2F194553-050-88A5AC72%2FMarco-Polo-Italian-portrait-woodcut.jpg&f=1&nofb=1&ipt=bb40ec9a18fce51961e4b45eefdb6832556586baa938f8db40e96bb5e9edbcc9" width="60" align="left" alt="Marcopolo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
+    <a href="https://github.com/MarawanYakout/" target="_blank" rel="noreferrer"> 
+      MarcoPolo
+     </a>: High Quality OpenSource Web Scrapper in Rust, Downloads [Pdf, Img, Videos] + MALWARE checks for safety 
+     <br><em>[Underdevelopment]</em>
+        <br clear="all"> 
+  </li>
+
+</ul>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -185,9 +218,9 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+  <!-- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
+  </a> -->
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
   </a>
@@ -256,12 +289,26 @@ Research:
 
 -->
 
-
 ## Education
-- BSc Computer Science, University of London
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://www.pikpng.com/pngl/b/444-4441639_university-of-london-logo-university-of-london-clipart.png" width="90" alt="University of London Logo">
+    </td>
+    <td>
+      <strong>BSc Computer Science</strong><br>
+      University of London
+    </td>
+  </tr>
+</table>
 
 ## Connect
-- YouTube: https://www.youtube.com/@centrified  
-- LinkedIn: https://www.linkedin.com/in/marawanyakout  
-- X/Twitter: https://twitter.com/MarawanYakout  
-- Email: mmyay1@student.london.ac.uk | yakout@marawan.net
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/@centrified"><img src="https://img.icons8.com/color/48/000000/youtube.png" alt="Youtube"/></a>
+  <a href="https://www.linkedin.com/in/marawanyakout/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/MarawanYakout"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+  <a href="https://x.com/MarawanYakout"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/nishant0760/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="mailto:yakout@marawan.net"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+</div>
