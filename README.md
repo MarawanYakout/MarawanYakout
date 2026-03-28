@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marawan%20Yakout-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/marawanyakout)
 [![X (Twitter)](https://img.shields.io/badge/X-@MarawanYakout-000000?logo=x&logoColor=white&style=flat-square)](https://twitter.com/MarawanYakout)
 [![Email](https://img.shields.io/badge/Email-mmyay1%40student.london.ac.uk-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:yaokut@marawan.net)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarawanYakout&label=You%20Are%20Visitor%20Number&countColor=%2337d67a&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMarawanYakout)
 
 A foundational researcher with Computer Science BSc - University of London with a focus on AI, Machine Learning, Data Science and DeepLearning. Passionate about research, reproducibility and high‑quality open‑source implementations.
 
@@ -13,9 +14,11 @@ A foundational researcher with Computer Science BSc - University of London with 
 - Databases for ML, data management, and reproducibility
 
 ## Programing Focus
+
 - Contribution in Open Source projects
 - Improve programs computational effieciency with optimized code and software modularity
 - Create programs and tools that could actually benifit humanity.
+
 
 
 <p align="left">
@@ -23,11 +26,16 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" align="right" width="60%" />
   </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="right" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif "align="left" width="400">
+
 </p>
 <br clear="both" />
 
 
-## Publications
+
+
+## Puplications 
 
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ">
@@ -80,10 +88,11 @@ A foundational researcher with Computer Science BSc - University of London with 
   />
 </div>
 
-<ul>
 
 
-## Top Projects
+<h3 align="left">Top Projects</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%" >
+
 
 <ul>
   
@@ -318,6 +327,7 @@ Research:
     </td>
   </tr>
 </table>
+
 
 ## Connect
 <div style="text-align: center;">
