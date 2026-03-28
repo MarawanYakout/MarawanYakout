@@ -7,11 +7,17 @@
 
 A foundational researcher with Computer Science BSc - University of London with a focus on AI, Machine Learning, Data Science and DeepLearning. Passionate about research, reproducibility and high‑quality open‑source implementations.
 
-## Research focus
+## Research Focus
 - Foundation models, NLP, Evaluation & robustness  
 - Efficient training, data pipelines, and MLOps fundamentals  
 - Databases for ML, data management, and reproducibility
-  
+
+## Programing Focus
+- Contribution in Open Source projects
+- Improve programs computational effieciency with optimized code and software modularity
+- Create programs and tools that could actually benifit humanity.
+
+
 <!--
 ## Publications
 - Google Scholar citations and ORCID badges here
@@ -54,7 +60,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 
-## Top Made Projects
+## Top Projects
 
 <ul>
   
@@ -87,7 +93,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 </ul>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">My Kitchen</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -133,9 +139,6 @@ A foundational researcher with Computer Science BSc - University of London with 
   </a>
 </p>
 
-
-<h3 align="left">Frameworks & Tools:</h3>
-<p align="left">
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
@@ -164,8 +167,6 @@ A foundational researcher with Computer Science BSc - University of London with 
 </p>
 
 
-<h3 align="left">Cloud & Dev Ops:</h3>
-<p align ="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
@@ -198,9 +199,6 @@ A foundational researcher with Computer Science BSc - University of London with 
   </a>
 </p>
 
-
-<h3 align="left">Databases:</h3>
-<p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
@@ -209,10 +207,7 @@ A foundational researcher with Computer Science BSc - University of London with 
   </a>
 </p>
 
-
-<h3 align="left">AI & Other Tools:</h3>
-<p align="left">
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
@@ -232,19 +227,15 @@ A foundational researcher with Computer Science BSc - University of London with 
   </a>
 </p>
 
-
-
-<h3 align="left">3D & Creative</h3>
-  <p align="left">
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> 
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
-    </a>
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> 
-    </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> 
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> 
+  </a>
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> 
+  </a>
   </p>
 </p>
 
@@ -257,7 +248,6 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 <!--
-
 ## Tech stack
 Languages:  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -312,3 +302,5 @@ Research:
   <a href="https://www.instagram.com/nishant0760/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="mailto:yakout@marawan.net"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
 </div>
+
+"Whatever is Easy is Hard, Whatever is Hard is Easy"
