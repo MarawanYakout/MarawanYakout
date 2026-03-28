@@ -3,7 +3,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-centrified-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@centrified)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marawan%20Yakout-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/marawanyakout)
 [![X (Twitter)](https://img.shields.io/badge/X-@MarawanYakout-000000?logo=x&logoColor=white&style=flat-square)](https://twitter.com/MarawanYakout)
-[![Email](https://img.shields.io/badge/Email-mmyay1%40student.london.ac.uk-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:mmyay1@student.london.ac.uk)
+[![Email](https://img.shields.io/badge/Email-mmyay1%40student.london.ac.uk-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:yaokut@marawan.net)
 
 A foundational researcher with Computer Science BSc - University of London with a focus on AI, Machine Learning, Data Science and DeepLearning. Passionate about research, reproducibility and high‑quality open‑source implementations.
 
@@ -18,16 +18,38 @@ A foundational researcher with Computer Science BSc - University of London with 
 - Create programs and tools that could actually benifit humanity.
 
 
-<!--
-## Publications
-- Google Scholar citations and ORCID badges here
-- [![arXiv BADGE HERE](ARXIV_BADGE_URL)](ARXIV_PAPER_URL) PREPRINT TITLE — brief 1‑line contribution summary
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="left" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" align="right" width="65%" />
+  </a>
+</p>
+<br clear="both" />
 
+
+## Publications
+
+<p align="left">
+  <a href="https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0003-0325-4137">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+</p>
+<br clear="both" />
+
+
+* [Physics-Informed Diffusion Model for Generating Synthetic Extreme Rare Weather Events Data](https://arxiv.org/abs/2603.06782) — a physics-informed diffusion model based on the Context-UNet architecture to generate synthetic, multi-spectral satellite imagery of extreme weather events with scalability. <a href="https://arxiv.org/abs/2603.06782"><img src="https://img.shields.io/badge/arXiv-2603.06782-B31B1B?style=flat-square" align="right" /></a>
+
+
+
+<!--
 ## Selected projects
 - PROJECT_NAME — problem → method → result; repo link; key metrics/benchmarks; data/repro notebook  
 - PROJECT_NAME — problem → method → result; highlights (ablation, error analysis, constraints)  
 - PROJECT_NAME — problem → method → result; demo/inference info and limitations
--->
+--->
 
 
 <!-- <h3 align="left">Connect with me:</h3>
@@ -41,7 +63,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ceviche+One&size=40&pause=1000&color=87F799&width=475&height=65&lines=Welcome+To+My+Git+Universe;I+Love+Code+%2C+Science+%26+Research;I+Love+you+Too+Random+Citizen+%F0%9F%AB%B5%F0%9F%8F%BC" alt="Typing SVG" /></a>
 </div> -->
 
-<hr/>
+
   <!-- <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MarawanYakout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="MarawanYakout Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="MarawanYakout Top Langs" />
@@ -58,6 +80,7 @@ A foundational researcher with Computer Science BSc - University of London with 
   />
 </div>
 
+<ul>
 
 
 ## Top Projects
@@ -93,7 +116,9 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 </ul>
 
-<h3 align="left">My Kitchen</h3>
+## My Kitchen
+<ul>
+  
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -239,14 +264,15 @@ A foundational researcher with Computer Science BSc - University of London with 
   </p>
 </p>
 
-<h3 align="left">Research:</h3>
 <p align="left">
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="latex" width="60" height="60"/> 
   </a>
 </p>
 
+</ul>
 
+  
 <!--
 ## Tech stack
 Languages:  
