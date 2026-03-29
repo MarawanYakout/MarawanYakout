@@ -116,7 +116,7 @@ A foundational researcher with Computer Science BSc - University of London with 
   
   <li>
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.britannica.com%2F53%2F194553-050-88A5AC72%2FMarco-Polo-Italian-portrait-woodcut.jpg&f=1&nofb=1&ipt=bb40ec9a18fce51961e4b45eefdb6832556586baa938f8db40e96bb5e9edbcc9" width="60" align="left" alt="Marcopolo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
-    <a href="https://github.com/MarawanYakout/" target="_blank" rel="noreferrer"> 
+    <a href="https://github.com/MarawanYakout/MarcoPolo" target="_blank" rel="noreferrer"> 
       MarcoPolo
      </a>: High Quality OpenSource Web Scrapper in Rust, Downloads [Pdf, Img, Videos] + MALWARE checks for safety 
      <br><em>[Underdevelopment]</em>
