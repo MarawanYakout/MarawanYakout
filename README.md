@@ -122,6 +122,19 @@ A foundational researcher with Computer Science BSc - University of London with 
      <br><em>[Underdevelopment]</em>
         <br clear="all"> 
   </li>
+  
+   <li>
+      <img src="https://www.10000birds.com/wp-content/uploads/2011/10/Vesper-Sparrow-portrait.jpg" width="60" align="left" alt="Marcopolo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
+    <a href="https://github.com/MarawanYakout/MarcoPolo" target="_blank" rel="noreferrer"> 
+      Vesper
+     </a>: 
+     Extreemly Fast, Light, Highly Secure OpenSource CLI messeging program made in Rust, C and python, that uses Async TLS server/client, message routing via HMAC-SHA256 and SHA-256 + AES-256-GCM
+     (OpenSSL) with CLI UX, SSH tunnel management and X25519 ECDH key exchange. In simple words "its the safest way to send messeges on the internet - until Quantam Computers take over" <br><em>[Underdevelopment]</em>
+        <br clear="all"> 
+  </li>
+
+ 
+
 
 </ul>
 
