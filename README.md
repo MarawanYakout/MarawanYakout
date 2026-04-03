@@ -329,6 +329,31 @@ Research:
 </table>
 
 
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarawanYakout&theme=tokyonight"
+    height="180"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarawanYakout&theme=tokyonight"
+    height="180"
+    alt="Most commit language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MarawanYakout&theme=tokyo-night&hide_border=true&area=true&radius=12"
+    width="100%"
+    alt="GitHub contribution graph"
+  />
+</p>
+
+
 ## Connect
 <div style="text-align: center;">
   <a href="https://www.youtube.com/@centrified"><img src="https://img.icons8.com/color/48/000000/youtube.png" alt="Youtube"/></a>
