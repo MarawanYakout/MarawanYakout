@@ -98,7 +98,7 @@ A foundational researcher with Computer Science BSc - University of London with 
   
   <li>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.mds.yandex.net%2Fget-shedevrum%2F14123243%2Fimg_01a9e4216c2f11efa203d60e594abc03%2Forig&f=1&nofb=1&ipt=93443aa7fc354e260f9319abbe6bbd86e9ee529534b00f5eeba2a8c4415afa26" width="60" align="left" alt="rustingo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+      <a href="https://github.com/MarawanYakout/SERWED" target="_blank" rel="noreferrer"> 
       SERWED
      </a>:
         A Physics Infromed Diffusion Model with scalability for High Picture Dimensions.
