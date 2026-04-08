@@ -345,8 +345,7 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="https://x.com/MarawanYakout"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
   <a href="https://www.instagram.com/marawanyakout/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="mailto:yakout@marawan.net"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" alt="Google Scholar"/></a>
-  <a href="https://orcid.org/0009-0003-0325-4137"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white&labelColor=A6CE39" alt="ORCID" height="48"/></a>
+
 </div>
 
 "Whatever is Easy is Hard, Whatever is Hard is Easy"
