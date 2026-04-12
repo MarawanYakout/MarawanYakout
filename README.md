@@ -112,7 +112,7 @@ A foundational researcher with Computer Science BSc - University of London with 
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fmedieval-oil-portrait-knight-golden-armor_735318-11263.jpg&f=1&nofb=1&ipt=a9a385e2f2c84a5facad6973c5b914e9a6e596aef00da3e59ef8542e6b104376" width="60" align="left" alt="rustingo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
      <a href="https://github.com/MarawanYakout/rustingo" target="_blank" rel="noreferrer"> 
       Rustingo
-     </a>: A Fully Rust made Machine Learning Library that uses CPU and GPU resources  <br><em>[On Going]</em>
+     </a>: A Rust ML Library that uses CPU and GPU resources  <em>[On Going]</em>
          <br clear="all"> 
   </li>
   
@@ -120,8 +120,7 @@ A foundational researcher with Computer Science BSc - University of London with 
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.britannica.com%2F53%2F194553-050-88A5AC72%2FMarco-Polo-Italian-portrait-woodcut.jpg&f=1&nofb=1&ipt=bb40ec9a18fce51961e4b45eefdb6832556586baa938f8db40e96bb5e9edbcc9" width="60" align="left" alt="Marcopolo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
     <a href="https://github.com/MarawanYakout/MarcoPolo" target="_blank" rel="noreferrer"> 
       MarcoPolo
-     </a>: High Quality OpenSource Web Scrapper in Rust, Downloads [Pdf, Img, Videos] + MALWARE checks for safety 
-     <br><em>[Underdevelopment]</em>
+     </a>: Most efficient way to get Books or Web Scrape to Download [PDF, Img, Videos] from any site on the internet.
         <br clear="all"> 
   </li>
   
@@ -130,8 +129,7 @@ A foundational researcher with Computer Science BSc - University of London with 
     <a href="https://github.com/MarawanYakout/MarcoPolo" target="_blank" rel="noreferrer"> 
       Vesper
      </a>: 
-     Extreemly Fast, Light, Highly Secure OpenSource CLI messeging program made in Rust, C and python, that uses Async TLS server/client, message routing via HMAC-SHA256 and SHA-256 + AES-256-GCM
-     (OpenSSL) with CLI UX, SSH tunnel management and X25519 ECDH key exchange. In simple words "its the safest way to send messeges on the internet - until Quantam Computers take over" <br><em>[Underdevelopment]</em>
+     CLI messeging program made in Rust, C and python "Safe until Quantam Computers take over".
         <br clear="all"> 
   </li>
 
