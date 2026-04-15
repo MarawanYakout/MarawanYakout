@@ -4,9 +4,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marawan%20Yakout-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/marawanyakout)
 [![X (Twitter)](https://img.shields.io/badge/X-@MarawanYakout-000000?logo=x&logoColor=white&style=flat-square)](https://twitter.com/MarawanYakout)
 [![Email](https://img.shields.io/badge/Email-yakout%40marawan.net-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:yakout@marawan.net)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Marawan%20Yakout-4285F4?logo=google-scholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0325--4137-A6CE39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0009-0003-0325-4137)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarawanYakout&label=You%20Are%20Visitor%20Number&countColor=%2337d67a&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMarawanYakout)
+<!--[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Marawan%20Yakout-4285F4?logo=google-scholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0325--4137-A6CE39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0009-0003-0325-4137) -->
+
 
 A foundational researcher with Computer Science BSc - University of London with a focus on AI, Machine Learning, Data Science and Deep Learning. Passionate about research, reproducibility and high‑quality open‑source implementations.
 
@@ -60,6 +61,14 @@ A foundational researcher with Computer Science BSc - University of London with 
 - PROJECT_NAME — problem → method → result; demo/inference info and limitations
 -->
 
+<div align="center">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ0b3ZkMmozOWtnZGQ3ZGY2N3RtdTJlNzJyNDB1dnhjMzk1dGlsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" 
+    alt="Black Hole" 
+    width="50%"
+    style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
+  />
+</div>
 
 <h3 align="left">Top Projects</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" >
@@ -169,7 +178,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarawanYakout&theme=tokyonight"
     height="180"
@@ -180,7 +189,24 @@ A foundational researcher with Computer Science BSc - University of London with 
     height="180"
     alt="Most commit language"
   />
+</p> -->
+
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=MarawanYakout&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="Top languages"
+  />
 </p>
+
+
+
 
 <p align="center">
   <img
@@ -189,6 +215,7 @@ A foundational researcher with Computer Science BSc - University of London with 
     alt="GitHub contribution graph"
   />
 </p>
+
 
 
 ## Connect
@@ -201,13 +228,6 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="mailto:yakout@marawan.net"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
 </div>
 
-<div align="center">
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ0b3ZkMmozOWtnZGQ3ZGY2N3RtdTJlNzJyNDB1dnhjMzk1dGlsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" 
-    alt="Black Hole" 
-    width="50%"
-    style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
-  />
-</div>
+
 
 "Whatever is Easy is Hard, Whatever is Hard is Easy"
