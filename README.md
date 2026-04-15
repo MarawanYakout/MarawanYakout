@@ -1,25 +1,25 @@
-# Marawan Yakout — AI/ML Research
+  # Marawan Yakout — AI/ML Research
 
 [![YouTube](https://img.shields.io/badge/YouTube-centrified-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@centrified)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marawan%20Yakout-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/marawanyakout)
 [![X (Twitter)](https://img.shields.io/badge/X-@MarawanYakout-000000?logo=x&logoColor=white&style=flat-square)](https://twitter.com/MarawanYakout)
-[![Email](https://img.shields.io/badge/Email-mmyay1%40student.london.ac.uk-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:yaokut@marawan.net)
+[![Email](https://img.shields.io/badge/Email-yakout%40marawan.net-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:yakout@marawan.net)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Marawan%20Yakout-4285F4?logo=google-scholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0325--4137-A6CE39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0009-0003-0325-4137)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarawanYakout&label=You%20Are%20Visitor%20Number&countColor=%2337d67a&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMarawanYakout)
 
-A foundational researcher with Computer Science BSc - University of London with a focus on AI, Machine Learning, Data Science and DeepLearning. Passionate about research, reproducibility and high‑quality open‑source implementations.
+A foundational researcher with Computer Science BSc - University of London with a focus on AI, Machine Learning, Data Science and Deep Learning. Passionate about research, reproducibility and high‑quality open‑source implementations.
 
 ## Research Focus
 - Foundation models, NLP, Evaluation & robustness  
 - Efficient training, data pipelines, and MLOps fundamentals  
 - Databases for ML, data management, and reproducibility
 
-## Programing Focus
+## Programming Focus
 
 - Contribution in Open Source projects
-- Improve programs computational effieciency with optimized code and software modularity
-- Create programs and tools that could actually benifit humanity.
+- Improve programs computational efficiency with optimized code and software modularity
+- Create programs and tools that could actually benefit humanity.
 
 
 
@@ -29,7 +29,7 @@ A foundational researcher with Computer Science BSc - University of London with 
     <img src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" align="right" width="60%" />
   </a>
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="right" width="300" />
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif "align="left" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" align="left" width="400">
 
 </p>
 <br clear="both" />
@@ -37,7 +37,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 
-## Puplications 
+## Publications
 
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ">
@@ -55,41 +55,11 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 <!--
-## Selected projects
+## Selected Projects
 - PROJECT_NAME — problem → method → result; repo link; key metrics/benchmarks; data/repro notebook  
 - PROJECT_NAME — problem → method → result; highlights (ablation, error analysis, constraints)  
 - PROJECT_NAME — problem → method → result; demo/inference info and limitations
---->
-
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://github.com/MarawanYakout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-</p> -->
-
-
-<!-- <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ceviche+One&size=40&pause=1000&color=87F799&width=475&height=65&lines=Welcome+To+My+Git+Universe;I+Love+Code+%2C+Science+%26+Research;I+Love+you+Too+Random+Citizen+%F0%9F%AB%B5%F0%9F%8F%BC" alt="Typing SVG" /></a>
-</div> -->
-
-
-  <!-- <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MarawanYakout&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="MarawanYakout Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="MarawanYakout Top Langs" />
-  <br/> -->
-</div>
-
-
-<div align="center">
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ0b3ZkMmozOWtnZGQ3ZGY2N3RtdTJlNzJyNDB1dnhjMzk1dGlsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" 
-    alt="Black Hole" 
-    width="50%"
-    style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
-  />
-</div>
-
+-->
 
 
 <h3 align="left">Top Projects</h3>
@@ -99,17 +69,17 @@ A foundational researcher with Computer Science BSc - University of London with 
 <ul>
   
   <li>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.mds.yandex.net%2Fget-shedevrum%2F14123243%2Fimg_01a9e4216c2f11efa203d60e594abc03%2Forig&f=1&nofb=1&ipt=93443aa7fc354e260f9319abbe6bbd86e9ee529534b00f5eeba2a8c4415afa26" width="60" align="left" alt="rustingo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.mds.yandex.net%2Fget-shedevrum%2F14123243%2Fimg_01a9e4216c2f11efa203d60e594abc03%2Forig&f=1&nofb=1&ipt=93443aa7fc354e260f9319abbe6bbd86e9ee529534b00f5eeba2a8c4415afa26" width="60" align="left" alt="SERWED Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
       <a href="https://github.com/MarawanYakout/SERWED" target="_blank" rel="noreferrer"> 
       SERWED
      </a>:
-        A Physics Infromed Diffusion Model with scalability for High Picture Dimensions.
+        A Physics Informed Diffusion Model with scalability for High Picture Dimensions.
       <br><em>[Tested using NASA GEOS Satellite Data for Rare Cyclone Events + Research Paper]</em>
         <br clear="all"> 
   </li>
   
   <li>
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fmedieval-oil-portrait-knight-golden-armor_735318-11263.jpg&f=1&nofb=1&ipt=a9a385e2f2c84a5facad6973c5b914e9a6e596aef00da3e59ef8542e6b104376" width="60" align="left" alt="rustingo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fmedieval-oil-portrait-knight-golden-armor_735318-11263.jpg&f=1&nofb=1&ipt=a9a385e2f2c84a5facad6973c5b914e9a6e596aef00da3e59ef8542e6b104376" width="60" align="left" alt="Rustingo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
      <a href="https://github.com/MarawanYakout/rustingo" target="_blank" rel="noreferrer"> 
       Rustingo
      </a>: A Rust ML Library that uses CPU and GPU resources  <em>[On Going]</em>
@@ -125,22 +95,18 @@ A foundational researcher with Computer Science BSc - University of London with 
   </li>
   
    <li>
-      <img src="https://www.10000birds.com/wp-content/uploads/2011/10/Vesper-Sparrow-portrait.jpg" width="60" align="left" alt="Marcopolo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
-    <a href="https://github.com/MarawanYakout/MarcoPolo" target="_blank" rel="noreferrer"> 
+      <img src="https://www.10000birds.com/wp-content/uploads/2011/10/Vesper-Sparrow-portrait.jpg" width="60" align="left" alt="Vesper Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
+    <a href="https://github.com/MarawanYakout/Vesper" target="_blank" rel="noreferrer"> 
       Vesper
      </a>: 
-     CLI messeging program made in Rust, C and python "Safe until Quantam Computers take over".
+     CLI messaging program made in Rust, C and Python "Safe until Quantum Computers take over".
         <br clear="all"> 
   </li>
-
- 
-
 
 </ul>
 
 ## My Kitchen
-<ul>
-  
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -149,7 +115,7 @@ A foundational researcher with Computer Science BSc - University of London with 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="assembly" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/Assembly-545454?style=flat-square&logo=assemblyscript&logoColor=white" alt="assembly" width="80" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -184,8 +150,6 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> 
   </a>
-</p>
-
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
@@ -211,9 +175,6 @@ A foundational researcher with Computer Science BSc - University of London with 
     <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="wireshark" width="40" height="40" />
   </picture>
   </a>
-</p>
-
-
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
@@ -244,25 +205,18 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/> 
   </a>
-</p>
-
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
-</p>
-
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> 
   </a>
-  <!-- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/> 
-  </a> -->
   <a href="https://d3js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> 
   </a>
@@ -272,8 +226,6 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-</p>
-
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> 
   </a>
@@ -283,16 +235,10 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="40" height="40"/> 
   </a>
-  </p>
-</p>
-
-<p align="left">
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="latex" width="60" height="60"/> 
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="latex" width="60" height="40"/> 
   </a>
 </p>
-
-</ul>
 
 
 ## Education
@@ -343,7 +289,15 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="https://x.com/MarawanYakout"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
   <a href="https://www.instagram.com/marawanyakout/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="mailto:yakout@marawan.net"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+</div>
 
+<div align="center">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ0b3ZkMmozOWtnZGQ3ZGY2N3RtdTJlNzJyNDB1dnhjMzk1dGlsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" 
+    alt="Black Hole" 
+    width="50%"
+    style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
+  />
 </div>
 
 "Whatever is Easy is Hard, Whatever is Hard is Easy"
