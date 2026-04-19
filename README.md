@@ -11,31 +11,43 @@
 
 A foundational researcher with Computer Science BSc - University of London with a focus on AI, Machine Learning, Data Science and Deep Learning. Passionate about research, reproducibility and high‑quality open‑source implementations.
 
-## Research Focus
-- Foundation models, NLP, Evaluation & robustness  
-- Efficient training, data pipelines, and MLOps fundamentals  
+<p align="center">
+  <img src="toji.gif"  width="430" align="right">
+</p>
+
+<h3 align="left">Research Focus
+
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" align="right" width="350">
+
+</h2>
+
+<!-- ## Research Focus -->
+- Foundation models, NN, NLP, Evaluation & robustness  
+- Efficient training, data pipelines, and MLOps  
 - Databases for ML, data management, and reproducibility
 
-## Programming Focus
+<h3 align="left">Programming Focus
+
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="left" width="300" />
+</h2>
+<!-- ## Programming Focus -->
 
 - Contribution in Open Source projects
-- Improve programs computational efficiency with optimized code and software modularity
-- Create programs and tools that could actually benefit humanity.
+- Improve programs computational efficiency and software modularity
+- Create beneficial programs and tools
 
-
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="left" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" align="right" width="60%" />
-  </a>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="right" width="300" />
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" align="left" width="400">
-</p>
-<br clear="both" />
-
-
-
+<!--
+  <p align="left">
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="left" />
+    
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" align="right" width="50%" />
+    </a>
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="right" width="300" />
+    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" align="right" width="350">
+  </p>
+  <br clear="both" />
+-->
 
 ## Publications
 
@@ -69,6 +81,8 @@ A foundational researcher with Computer Science BSc - University of London with 
     style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
   />
 </div>
+
+
 
 <h3 align="left">Top Projects</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" >
@@ -193,6 +207,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" align="right" width="50%" />
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=MarawanYakout&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
