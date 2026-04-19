@@ -218,17 +218,19 @@ A foundational researcher with Computer Science BSc - University of London with 
   <img src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" align="right" width="50%" />
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=MarawanYakout&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
+    height="180" 
+    align="right"
     alt="GitHub stats"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
+    align="right"
     alt="Top languages"
   />
 </p>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="left" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="right" width="300" />
 
 
 
