@@ -33,7 +33,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 <h3 align="left">Programming Focus </h2>
 
 <p>  
-  <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=wtf&font=Harmattan&colors=%231a0f14%2C%232c1b22%2C%23f4dada%2C%23a37a7a%2C%23ff7b54%2C%23ff5252%2C%23ffb26b%2C%23c73866&ext=contest" width="430" hight="430" align="right">
+  <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=wtf&font=Harmattan&colors=%231a0f14%2C%232c1b22%2C%23f4dada%2C%23a37a7a%2C%23ff7b54%2C%23ff5252%2C%23ffb26b%2C%23c73866&ext=contest" width="430" hight="420" align="right">
 </p>
 
 <!-- ## Programming Focus -->
@@ -214,28 +214,35 @@ A foundational researcher with Computer Science BSc - University of London with 
 </p> -->
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" align="right" width="50%" />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=MarawanYakout&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub stats"
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=MarawanYakout&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180" 
+    alt="GitHub stats" 
   />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top languages"
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarawanYakout&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180" 
+    alt="Top languages" 
   />
-</p>
+
+  <br><br> <img 
+    src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" 
+    alt="GitHub Streak" 
+  />
+
+  <br><br>
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MarawanYakout&theme=tokyo-night&hide_border=true&area=true&radius=12" 
+    width="100%" 
+    alt="GitHub contribution graph" 
+  />
+
+</div>
 
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MarawanYakout&theme=tokyo-night&hide_border=true&area=true&radius=12"
-    width="100%"
-    alt="GitHub contribution graph"
-  />
-</p>
 
 
 
