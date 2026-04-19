@@ -1,4 +1,4 @@
-# Marawan Yakout — AI/ML Research
+# Marawan Yakout
 
 [![YouTube](https://img.shields.io/badge/YouTube-centrified-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@centrified)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marawan%20Yakout-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/marawanyakout)
@@ -13,28 +13,37 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 <p align="center">
   <img src="toji.gif"  width="430" align="right">
+
 </p>
 
-<h3 align="left">Research Focus
 
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" align="right" width="350">
+<!-- <div align="center">
+  <img src="toji.gif" width="400" />
+  <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=wtf&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=activity" width="400" />
+</div> -->
 
-</h2>
+<h3 align="left">Research Focus </h3>
 
 <!-- ## Research Focus -->
 - Foundation models, NN, NLP, Evaluation & robustness  
 - Efficient training, data pipelines, and MLOps  
 - Databases for ML, data management, and reproducibility
 
-<h3 align="left">Programming Focus
 
- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="left" width="300" />
-</h2>
+<h3 align="left">Programming Focus </h2>
+
+<p>  
+  <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=wtf&font=Harmattan&colors=%231a0f14%2C%232c1b22%2C%23f4dada%2C%23a37a7a%2C%23ff7b54%2C%23ff5252%2C%23ffb26b%2C%23c73866&ext=contest" width="430" hight="430" align="right">
+</p>
+
 <!-- ## Programming Focus -->
 
 - Contribution in Open Source projects
 - Improve programs computational efficiency and software modularity
 - Create beneficial programs and tools
+- I use Arch btw [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+
+
 
 <!--
   <p align="left">
@@ -49,7 +58,8 @@ A foundational researcher with Computer Science BSc - University of London with 
   <br clear="both" />
 -->
 
-## Publications
+
+<h3 align="left">Puplications</h2>
 
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ">
@@ -62,6 +72,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 <br clear="both" />
 
 
+
 * [Physics-Informed Diffusion Model for Generating Synthetic Extreme Rare Weather Events Data](https://arxiv.org/abs/2603.06782) — a physics-informed diffusion model based on the Context-UNet architecture to generate synthetic, multi-spectral satellite imagery of extreme weather events with scalability. <a href="https://arxiv.org/abs/2603.06782"><img src="https://img.shields.io/badge/arXiv-2603.06782-B31B1B?style=flat-square" align="right" /></a>
 
 
@@ -72,15 +83,6 @@ A foundational researcher with Computer Science BSc - University of London with 
 - PROJECT_NAME — problem → method → result; highlights (ablation, error analysis, constraints)  
 - PROJECT_NAME — problem → method → result; demo/inference info and limitations
 -->
-
-<div align="center">
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ0b3ZkMmozOWtnZGQ3ZGY2N3RtdTJlNzJyNDB1dnhjMzk1dGlsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" 
-    alt="Black Hole" 
-    width="50%"
-    style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
-  />
-</div>
 
 
 
@@ -173,6 +175,14 @@ A foundational researcher with Computer Science BSc - University of London with 
   </tr>
 </table>
 
+<div align="center">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ0b3ZkMmozOWtnZGQ3ZGY2N3RtdTJlNzJyNDB1dnhjMzk1dGlsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" 
+    alt="Black Hole" 
+    width="30%"
+    style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
+  />
+</div>
 
 ## Education
 
@@ -186,9 +196,9 @@ A foundational researcher with Computer Science BSc - University of London with 
       University of London
     </td>
   </tr>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="right" width="300" />
+
 </table>
-
-
 
 ## GitHub Stats
 
@@ -241,8 +251,10 @@ A foundational researcher with Computer Science BSc - University of London with 
   <a href="https://x.com/MarawanYakout"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/></a>
   <a href="https://www.instagram.com/marawanyakout/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/></a>
   <a href="mailto:yakout@marawan.net"><img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/></a>
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" align="right" width="350">
 </div>
 
 
 
 "Whatever is Easy is Hard, Whatever is Hard is Easy"
+
