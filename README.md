@@ -41,7 +41,8 @@ A foundational researcher with Computer Science BSc - University of London with 
 - Contribution in Open Source projects
 - Improve programs computational efficiency and software modularity
 - Create beneficial programs and tools
-- I use Arch btw [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- I Use Arch BTW [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- [Zettlekasten - Knowledge Hub](https://github.com/MarawanYakout/Zettlekasten)
 
 
 
@@ -72,10 +73,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 <br clear="both" />
 
 
-
 * [Physics-Informed Diffusion Model for Generating Synthetic Extreme Rare Weather Events Data](https://arxiv.org/abs/2603.06782) — a physics-informed diffusion model based on the Context-UNet architecture to generate synthetic, multi-spectral satellite imagery of extreme weather events with scalability. <a href="https://arxiv.org/abs/2603.06782"><img src="https://img.shields.io/badge/arXiv-2603.06782-B31B1B?style=flat-square" align="right" /></a>
-
-
 
 <!--
 ## Selected Projects
