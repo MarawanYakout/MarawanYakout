@@ -22,7 +22,10 @@ A foundational researcher with Computer Science BSc - University of London with 
   <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=wtf&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=activity" width="400" />
 </div> -->
 
-<h3 align="left">Research Focus </h3>
+<h3 align="left">Research Focus
+
+
+</h3>
 
 <!-- ## Research Focus -->
 - Foundation models, NN, NLP, Evaluation & robustness  
@@ -60,7 +63,10 @@ A foundational researcher with Computer Science BSc - University of London with 
 -->
 
 
-<h3 align="left">Puplications</h2>
+<h3 align="left">Puplications
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" align="right" width="10%">
+
+</h2>
 
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ">
