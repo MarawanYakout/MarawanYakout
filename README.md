@@ -11,10 +11,10 @@
 
 A foundational researcher with Computer Science BSc - University of London with a focus on AI, Machine Learning, Data Science and Deep Learning. Passionate about research, reproducibility and high‑quality open‑source implementations.
 
-<p align="center">
+<!-- <p align="center">
   <img src="toji.gif"  width="430" align="right">
 
-</p>
+</p> -->
 
 
 <!-- <div align="center">
