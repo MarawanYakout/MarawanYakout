@@ -35,9 +35,9 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 <h3 align="left">Programming Focus </h2>
 
-<p>  
+<!-- <p>  
   <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=nord&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=contest" width="430" hight="420" align="right">
-</p>
+</p> -->
 
 <!-- ## Programming Focus -->
 
