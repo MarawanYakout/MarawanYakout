@@ -115,11 +115,6 @@ A foundational researcher with Computer Science BSc - University of London with 
     <br clear="all"> 
   </li>
   
-  <li>
-    <img src="https://www.10000birds.com/wp-content/uploads/2011/10/Vesper-Sparrow-portrait.jpg" width="60" align="left" alt="Vesper Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
-    <a href="https://github.com/MarawanYakout/Vesper" target="_blank" rel="noreferrer">Vesper</a>: CLI messaging program made in Rust, C and Python "Safe until Quantum Computers take over".
-    <br clear="all"> 
-  </li>
 
 </ul>
 
