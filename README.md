@@ -11,6 +11,12 @@
 
 A foundational researcher with Computer Science BSc - University of London with a focus on AI, Machine Learning, Data Science and Deep Learning. Passionate about research, reproducibility and high‑quality open‑source implementations.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="marawanyakout's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <!-- <p align="center">
   <img src="toji.gif"  width="430" align="right">
 
@@ -44,7 +50,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 - Contribution in Open Source projects
 - Improve programs computational efficiency and software modularity
 - Create beneficial programs and tools
-- I Use Arch BTW [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- I Use Arch BTW [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) Here are my configs [ArchConfigs](https://github.com/MarawanYakout/ArchConfigs)
 - [Zettlekasten - Knowledge Hub](https://github.com/MarawanYakout/Zettlekasten)
 
 
@@ -90,7 +96,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 
-<h3 align="left">Top Projects</h3>
+<h3 align="left">Professional Projects</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" >
 
 
@@ -103,6 +109,10 @@ A foundational researcher with Computer Science BSc - University of London with 
       <br clear="all"> 
   </li>
   
+  </ul>
+<h3 align="left">Side Projects</h3>
+  
+  <ul>
   <li>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fmedieval-oil-portrait-knight-golden-armor_735318-11263.jpg&f=1&nofb=1&ipt=a9a385e2f2c84a5facad6973c5b914e9a6e596aef00da3e59ef8542e6b104376" width="60" align="left" alt="Rustingo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
     <a href="https://github.com/MarawanYakout/rustingo" target="_blank" rel="noreferrer">Rustingo</a>: A Rust ML Library that uses CPU and GPU resources <em>[On Going]</em>
