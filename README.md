@@ -1,10 +1,16 @@
-# Marawan Yakout
+<!--<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5+Duo&pause=1000&color=888BF7&center=true&vCenter=true&width=435&lines=Marawan+Yakout" alt="Typing SVG" /></a>
+</div> -->
 
-[![YouTube](https://img.shields.io/badge/YouTube-centrified-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@centrified)
+[![YouTube](https://img.shields.io/badge/YouTube-Centrified-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@centrified)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marawan%20Yakout-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/marawanyakout)
 [![X (Twitter)](https://img.shields.io/badge/X-@MarawanYakout-000000?logo=x&logoColor=white&style=flat-square)](https://twitter.com/MarawanYakout)
-[![Email](https://img.shields.io/badge/Email-yakout%40marawan.net-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:yakout@marawan.net)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarawanYakout&label=You%20Are%20Visitor%20Number&countColor=%2337d67a&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMarawanYakout)
+[![Email](https://img.shields.io/badge/Email-Yakout%40marawan.net-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:Yakout@marawan.net)
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5+Duo&pause=1000&color=9DF769&center=true&vCenter=true&width=435&lines=Competitive+Programmer" alt="Typing SVG" /></a>
+</div>
+<!--[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMarawanYakout&label=You%20Are%20Visitor%20Number&countColor=%2337d67a&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMarawanYakout)
 <!--[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Marawan%20Yakout-4285F4?logo=google-scholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0325--4137-A6CE39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0009-0003-0325-4137) -->
 
@@ -20,7 +26,6 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 ## Coding Profile 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5+Duo&pause=1000&color=9DF769&center=true&vCenter=true&width=435&lines=Competitive+Programmer" alt="Typing SVG" /></a>
 
 <a href="https://codeforces.com/profile/Laudatus"><img height="40" src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/></a>
 <a href="https://cses.fi/user/523543"><img height="40" src="https://img.shields.io/badge/CSES-0D1117?style=for-the-badge" alt="CSES"/></a>
@@ -58,10 +63,9 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 <h3 align="left">Programming Focus </h2>
 
-<!-- <p>  
+ <p>  
   <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=nord&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=contest" width="430" hight="420" align="right">
-</p> -->
-
+</p> 
 <!-- ## Programming Focus -->
 
 - Contribution in Open Source projects
