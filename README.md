@@ -38,10 +38,10 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 
-<!-- <p align="center">
-  <img src="toji.gif"  width="430" align="right">
+ <p align="center">
+  <img src="ninjs.gif"  width="430" align="right">
 
-</p> -->
+</p> 
 
 
 <!-- <div align="center">
@@ -49,7 +49,8 @@ A foundational researcher with Computer Science BSc - University of London with 
   <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=wtf&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=activity" width="400" />
 </div> -->
 
-<div align="center">
+
+<!-- <div align="center">
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ0b3ZkMmozOWtnZGQ3ZGY2N3RtdTJlNzJyNDB1dnhjMzk1dGlsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SVCSsoKU5v6ZJLk07n/giphy.gif" 
     alt="Black Hole" 
@@ -57,7 +58,7 @@ A foundational researcher with Computer Science BSc - University of London with 
     align="right"
     style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
   />
-</div>
+</div> -->
 
 
 
