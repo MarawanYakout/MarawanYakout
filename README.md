@@ -36,7 +36,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 <div align="right">
- <p align="right"> <img src="ninja.gif"  width="175" align="right"> </p> 
+ <p align="right"> <img src="ninja.gif"  width="185" align="right"> </p> 
 </div>
 
 <!-- <div align="center">
@@ -68,7 +68,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 <h3 align="left">Programming Focus </h2>
 
  <p>  
-  <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=nord&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=contest" width="430" hight="420" align="right">
+  <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=nord&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=contest" width="410" hight="400" align="right">
 </p> 
 <!-- ## Programming Focus -->
 
@@ -96,7 +96,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 <h3 align="left">Puplications
   
-<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" align="center" width="8%" style="vertical-align: middle;">
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" align="right" width="8%" style="vertical-align: middle;">
 
 </h3>
 
