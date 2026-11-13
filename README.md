@@ -36,7 +36,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 <div align="right">
- <p align="right"> <img src="ninja.gif"  width="180" align="right"> </p> 
+ <p align="right"> <img src="ninja.gif"  width="175" align="right"> </p> 
 </div>
 
 <!-- <div align="center">
