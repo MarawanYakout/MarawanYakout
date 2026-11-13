@@ -24,7 +24,6 @@ A foundational researcher with Computer Science BSc - University of London with 
 </picture>
 
 
-## Coding Profile 
 <div align="center">
 
 <a href="https://codeforces.com/profile/Laudatus"><img height="40" src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/></a>
