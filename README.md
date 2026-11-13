@@ -32,15 +32,12 @@ A foundational researcher with Computer Science BSc - University of London with 
 <a href="https://profile.hackthebox.com/profile/01a1d217-bd26-7251-b088-99f7c1ef4a8f?utm_medium=copy_url"><img height="40" src="https://img.shields.io/badge/Hack%20The%20Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/></a>
 
 <a href="https://codeforces.com/profile/Laudatus"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYOUR_HANDLE&query=%24.result%5B0%5D.rating&label=CF%20Rating&style=for-the-badge&logo=codeforces&labelColor=0D1117&color=1F8ACB" alt="Codeforces rating"/></a>
-
 </div>
 
 
- <p align="right">
-  <img src="ninja.gif"  width="190" align="right">
-
-</p> 
-
+<div align="right">
+ <p align="right"> <img src="ninja.gif"  width="180" align="right"> </p> 
+</div>
 
 <!-- <div align="center">
   <img src="toji.gif" width="400" />
@@ -60,10 +57,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 
-<h3 align="left">Research Focus
-
-
-</h3>
+<h3 align="left">Research Focus </h2>
 
 <!-- ## Research Focus -->
 - Foundation models, NN, NLP, Evaluation & robustness  
@@ -71,7 +65,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 - Databases for ML, data management, and reproducibility
 
 
-<h3 align="left">Programming Focus </h3>
+<h3 align="left">Programming Focus </h2>
 
  <p>  
   <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=nord&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=contest" width="430" hight="420" align="right">
@@ -102,7 +96,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 <h3 align="left">Puplications
   
-<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" align="right" width="10%" style="vertical-align: middle;">
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" align="right" width="8%" style="vertical-align: middle;">
 
 </h3>
 
