@@ -65,12 +65,12 @@ A foundational researcher with Computer Science BSc - University of London with 
 - Databases for ML, data management, and reproducibility
 
 
-<br clear="right">
+<!--<br clear="right"> -->
 
 <h3 align="left">Programming Focus</h3>
 
  <p>  
-  <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=nord&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=contest" width="410" hight="400" align="right">
+  <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=nord&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=contest" width="500" align="right">
 </p> 
 <!-- ## Programming Focus -->
 
