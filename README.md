@@ -96,14 +96,12 @@ A foundational researcher with Computer Science BSc - University of London with 
   <br clear="both" />
 -->
 
+<br clear="all">
 
-<h3 align="left">Puplications
-  
-<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" align="right" width="8%" style="vertical-align: middle;">
+<img src="spacer.png" align="right" width="44%" height="1" alt="">
+<img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true" align="right" width="8%">
 
-</h3>
-
-
+<h3 align="left">Publications</h3>
 
 <p align="left">
   <a href="https://scholar.google.com/citations?hl=en&user=QoFQiZ0AAAAJ">
