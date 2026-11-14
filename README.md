@@ -251,7 +251,6 @@ A foundational researcher with Computer Science BSc - University of London with 
   />
 </p> -->
 
-<!--
 
 
 <div align="center">
@@ -279,8 +278,12 @@ A foundational researcher with Computer Science BSc - University of London with 
   />
 
 </div>
--->
 
+
+
+<!--
+
+THIS IS A CUSTOM WORKFLOW 
 
 <div align="center">
 
@@ -289,20 +292,12 @@ A foundational researcher with Computer Science BSc - University of London with 
 
   <br> <img 
     src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" 
-    alt="GitHub Streak" 
-  />
+    alt="GitHub Streak"/>
 
   <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="GitHub contribution graph" />
 
 </div>
-
-
-
-
-
-
-
-
+-->
 
 
 
