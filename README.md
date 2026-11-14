@@ -251,6 +251,8 @@ A foundational researcher with Computer Science BSc - University of London with 
   />
 </p> -->
 
+<!--
+
 
 <div align="center">
 
@@ -277,6 +279,29 @@ A foundational researcher with Computer Science BSc - University of London with 
   />
 
 </div>
+-->
+
+
+<div align="center">
+
+  <img src="profile/stats.svg" height="180" alt="GitHub stats" />
+  <img src="profile/top-langs.svg" height="180" alt="Top languages" />
+
+  <br> <img 
+    src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" 
+    alt="GitHub Streak" 
+  />
+
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="GitHub contribution graph" />
+
+</div>
+
+
+
+
+
+
+
 
 
 
