@@ -36,7 +36,7 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 <div align="right">
- <p align="right"> <img src="vaya.gif" width="209" align="right"> </p>
+ <p align="right"> <img src="vaya.gif" width="309" align="right"> </p>
 </div>
 
  <!-- <div align="center">
