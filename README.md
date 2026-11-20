@@ -28,8 +28,9 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 <a href="https://codeforces.com/profile/Laudatus"><img height="40" src="https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"/></a>
 <a href="https://cses.fi/user/523543"><img height="40" src="https://img.shields.io/badge/CSES-0D1117?style=for-the-badge" alt="CSES"/></a>
-<a href="https://www.hackerrank.com/profile/marawanyakout"><img height="40" src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank"/></a>
-<a href="https://profile.hackthebox.com/profile/01a1d217-bd26-7251-b088-99f7c1ef4a8f?utm_medium=copy_url"><img height="40" src="https://img.shields.io/badge/Hack%20The%20Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/></a>
+<a href="https://leetcode.com/u/marawanyakout/"><img height="40" src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<!-- <a href="https://www.hackerrank.com/profile/marawanyakout"><img height="40" src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank"/></a>
+<a href="https://profile.hackthebox.com/profile/01a1d217-bd26-7251-b088-99f7c1ef4a8f?utm_medium=copy_url"><img height="40" src="https://img.shields.io/badge/Hack%20The%20Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/></a> -->
 
  <!-- <a href="https://codeforces.com/profile/Laudatus"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DYOUR_HANDLE&query=%24.result%5B0%5D.rating&label=CF%20Rating&style=for-the-badge&logo=codeforces&labelColor=0D1117&color=1F8ACB" alt="Codeforces rating"/></a>  -->
 </div>
