@@ -36,13 +36,14 @@ A foundational researcher with Computer Science BSc - University of London with 
 
 
 <div align="right">
- <p align="right"> <img src="ninja.gif" width="169" align="right"> </p>
+ <p align="right"> <img src="vaya.gif" width="209" align="right"> </p>
 </div>
 
-<!-- <div align="center">
-  <img src="toji.gif" width="400" />
-  <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=wtf&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=activity" width="400" />
-</div> -->
+ <!-- <div align="center">
+  <img src="vaya.gif" width="400" /> 
+  </div> -->
+  
+<!--  <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=wtf&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=activity" width="400" /> 
 
 
 <!-- <div align="center">
