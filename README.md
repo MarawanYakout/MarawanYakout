@@ -130,35 +130,38 @@ A foundational researcher with Computer Science BSc - University of London with 
 <h3 align="left">Professional Projects</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" >
 
-
 <ul>
   
   <li>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.mds.yandex.net%2Fget-shedevrum%2F14123243%2Fimg_01a9e4216c2f11efa203d60e594abc03%2Forig&f=1&nofb=1&ipt=93443aa7fc354e260f9319abbe6bbd86e9ee529534b00f5eeba2a8c4415afa26" width="60" align="left" alt="SERWED Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
-      <a href="https://github.com/MarawanYakout/SERWED" target="_blank" rel="noreferrer">SERWED</a>: A Physics Informed Diffusion Model with scalability for High Picture Dimensions.
-      <br><em>[Tested using NASA GEOS Satellite Data for Rare Cyclone Events + Research Paper]</em>
-      <br clear="all"> 
+    <!--<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars.mds.yandex.net%2Fget-shedevrum%2F14123243%2Fimg_01a9e4216c2f11efa203d60e594abc03%2Forig&f=1&nofb=1&ipt=93443aa7fc354e260f9319abbe6bbd86e9ee529534b00f5eeba2a8c4415afa26" width="60" align="left" alt="SERWED Thumbnail" style="margin-right: 15px; margin-bottom: 10px;"> -->
+      <a href="https://github.com/MarawanYakout/SERWED" target="_blank" rel="noreferrer">SERWED</a>: A Physics Informed Diffusion Model with scalability for High Picture Dimensions. [Tested using NASA GEOS Satellite Data for Rare Cyclone Events + Research Paper]
+ <!-- 
+  <br><em>[Tested using NASA GEOS Satellite Data for Rare Cyclone Events + Research Paper]</em>
+  <br clear="all"> -->
+      
   </li>
+
   
   </ul>
 <h3 align="left">Side Projects</h3>
   
   <ul>
   <li>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fmedieval-oil-portrait-knight-golden-armor_735318-11263.jpg&f=1&nofb=1&ipt=a9a385e2f2c84a5facad6973c5b914e9a6e596aef00da3e59ef8542e6b104376" width="60" align="left" alt="Rustingo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
+   <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fmedieval-oil-portrait-knight-golden-armor_735318-11263.jpg&f=1&nofb=1&ipt=a9a385e2f2c84a5facad6973c5b914e9a6e596aef00da3e59ef8542e6b104376" width="60" align="left" alt="Rustingo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;"> -->
     <a href="https://github.com/MarawanYakout/rustingo" target="_blank" rel="noreferrer">Rustingo</a>: A Rust ML Library that uses CPU and GPU resources <em>[On Going]</em>
     <br clear="all"> 
   </li>
   
   <li>
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.britannica.com%2F53%2F194553-050-88A5AC72%2FMarco-Polo-Italian-portrait-woodcut.jpg&f=1&nofb=1&ipt=bb40ec9a18fce51961e4b45eefdb6832556586baa938f8db40e96bb5e9edbcc9" width="60" align="left" alt="Marcopolo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;">
-    <a href="https://github.com/MarawanYakout/MarcoPolo" target="_blank" rel="noreferrer">MarcoPolo</a>: Most efficient way to get Books or Web Scrape to Download [PDF, Img, Videos] from any site on the internet.
+   <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.britannica.com%2F53%2F194553-050-88A5AC72%2FMarco-Polo-Italian-portrait-woodcut.jpg&f=1&nofb=1&ipt=bb40ec9a18fce51961e4b45eefdb6832556586baa938f8db40e96bb5e9edbcc9" width="60" align="left" alt="Marcopolo Thumbnail" style="margin-right: 15px; margin-bottom: 10px;"> -->
+    <a href="https://github.com/MarawanYakout/MarcoPolo" target="_blank" rel="noreferrer">MarcoPolo</a>: Fastest Most efficient way to get Books or Web Scrape to Download [PDF, Img, Videos] from any site on the internet With Ability to integrate with AI Agents.
     <br clear="all"> 
   </li>
   
 
 </ul>
 
+<!--
 ## My Kitchen
 
 <table border="0" cellpadding="8">
@@ -213,7 +216,9 @@ A foundational researcher with Computer Science BSc - University of London with 
     <td align="center"><a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" height="28"/></a></td>
   </tr>
-</table>
+</table> -->
+
+
 <!--
 <div align="center">
   <img 
@@ -222,7 +227,7 @@ A foundational researcher with Computer Science BSc - University of London with 
     width="30%"
     style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
   />
-</div> -->
+</div> --> 
 
 ## Education
 
