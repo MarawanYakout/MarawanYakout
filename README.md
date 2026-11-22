@@ -58,31 +58,30 @@ A foundational researcher with Computer Science BSc - University of London with 
 </div> -->
 
 
+<h3 align="left">Research Focus </h2> 
 
-<h3 align="left">Research Focus </h2>
-
-<!-- ## Research Focus -->
-- Foundation models, NN, NLP, Evaluation & robustness  
-- Efficient training, data pipelines, and MLOps  
-- Databases for ML, data management, and reproducibility
-
-
+  - Foundation models, NN, NLP, Evaluation & robustness  
+  - Efficient training, data pipelines, and MLOps  
+  - Databases for ML, data management, and reproducibility 
+    
 <!--<br clear="right"> -->
 
-<h3 align="left">Programming Focus</h3>
+ <!-- <h3 align="left">Programming Focus</h3> -->
 
   <!-- <p>  
   <img src="https://leetcard.jacoblin.cool/Marawanyakout?theme=nord&font=Harmattan&colors=%230b0f19%2C%231a1f35%2C%23e0e6f8%2C%238a99c0%2C%23ff007f%2C%2300f0ff%2C%237000ff%2C%23ffd700&ext=contest" width="500" align="right">
 </p> -->
 <!-- ## Programming Focus -->
-
+<!--
 - Contribution in Open Source projects
 - Improve programs computational efficiency and software modularity
 - Create beneficial programs and tools
 - I Use Arch BTW [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/) Here are my configs [ArchConfigs](https://github.com/MarawanYakout/ArchConfigs)
-- [Zettlekasten - Knowledge Hub](https://github.com/MarawanYakout/Zettlekasten)
-
+- 
 <br clear="all">
+-->
+
+
 
 
 <!--
@@ -95,6 +94,7 @@ A foundational researcher with Computer Science BSc - University of London with 
     <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="right" width="300" />
     <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" align="right" width="350">
   </p>
+  
   <br clear="both" />
 -->
 
@@ -158,6 +158,7 @@ A foundational researcher with Computer Science BSc - University of London with 
     <br clear="all"> 
   </li>
   
+[Zettlekasten - Knowledge Hub](https://github.com/MarawanYakout/Zettlekasten)
 
 </ul>
 
@@ -228,7 +229,7 @@ A foundational researcher with Computer Science BSc - University of London with 
     style="border: 4px solid #8e44ad; border-radius: 15px; box-shadow: 0px 0px 20px #8e44ad;" 
   />
 </div> --> 
-
+<!--
 ## Education
 
 <table>
@@ -242,24 +243,26 @@ A foundational researcher with Computer Science BSc - University of London with 
     </td>
   </tr>
 </table>
+-->
 
-## GitHub Stats
-
-<!-- <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarawanYakout&theme=tokyonight"
-    height="180"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarawanYakout&theme=tokyonight"
-    height="180"
-    alt="Most commit language"
-  />
-</p> -->
-
-
-
+<!-- 
+    ## GitHub Stats
+    
+    <!-- <p align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarawanYakout&theme=tokyonight"
+        height="180"
+        alt="GitHub stats"
+      />
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarawanYakout&theme=tokyonight"
+        height="180"
+        alt="Most commit language"
+      />
+    </p> -->
+  
+    
+<!-- 
 <div align="center">
 
 <!--  <img 
@@ -273,20 +276,20 @@ A foundational researcher with Computer Science BSc - University of London with 
     alt="Top languages" 
   />
 -->
-  <br> <img 
-    src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" 
-    alt="GitHub Streak" 
-  />
+ 
   <!--
+   <br> <img 
+    src="https://streak-stats.demolab.com/?user=marawanyakout&theme=chartreuse-dark" 
+    alt="GitHub Streak"/>
 
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=MarawanYakout&theme=tokyo-night&hide_border=true&area=true&radius=12" 
     width="100%" 
     alt="GitHub contribution graph" 
   />
-  -->
 
-</div>
+  </div>
+ -->
 
 
 
